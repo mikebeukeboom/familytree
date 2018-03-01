@@ -8,7 +8,7 @@
                  alt=""
                  width="172"
                  height="172">
-            <h1 class="h3 mb-3 font-weight-normal">Beukeboom</h1>
+            <h1 class="h3 mb-3 font-weight-normal">BEUKEBOOM</h1>
             <h2 class="h3 mb-3 font-weight-normal">Family Tree</h2>
         </div>
 
@@ -34,6 +34,9 @@
         </div>
         <button class="btn btn-lg btn-primary btn-block"
                 type="submit">Sign in
+        </button>
+        <button class="btn btn-lg btn-info btn-block"
+                type="submit">View as Guest
         </button>
         <p class="mt-5 mb-3 text-muted text-center">&copy; 2017-2018</p>
     </form>
